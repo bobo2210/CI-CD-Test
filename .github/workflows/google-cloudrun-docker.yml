@@ -51,7 +51,7 @@ on:
 env:
   PROJECT_ID: programmierprojekt-397609 # TODO: update Google Cloud project id
   GAR_LOCATION: europe-west1 # TODO: update Artifact Registry location
-  SERVICE: CI-CD-Test # TODO: update Cloud Run service name
+  SERVICE: cicdtest # TODO: update Cloud Run service name
   REGION: europe-west1 # TODO: update Cloud Run service region
 
 jobs:
